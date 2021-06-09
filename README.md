@@ -16,7 +16,7 @@
   <a href="https://mail.google.com/mail/u/0/?fs=1&to=cervantes.karla14@gmail.com&su=SUBJECT&body=BODY&tf=cm">
     <img alt="Gmail" width="36px" src="https://user-images.githubusercontent.com/72095687/121402059-134e4d80-c91f-11eb-9f9c-984083597b75.png" />
   </a>
-  <a href="">
+  <a href="https://twitter.com/Karla_mc4">
     <img alt="Twitter" width="36px" src="https://user-images.githubusercontent.com/72095687/121401765-beaad280-c91e-11eb-8d0c-564f4118121e.png" />
   </a>
   <a href="https://www.linkedin.com/in/kmc4/">
