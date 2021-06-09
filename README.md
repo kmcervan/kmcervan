@@ -6,7 +6,7 @@
     - 👯 I’m looking to collaborate on ...
     - 🤔 I’m looking for help with ...
     - 💬 Ask me about that one time I got lost in Italy.
-    - 😄 Pronouns: she/her
+    - 😄 Pronouns: she/her <br/>
     - ⚡ Fun facts: I love puzzles, I am decent at chess, and I've lived in 3 countries!
   </p>
   <h4>Let's connect!</h4>
