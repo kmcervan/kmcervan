@@ -1,13 +1,13 @@
 <div align="center"> 
   <h2> Hey World! I'm Karla Cervantes :v: </h2>
     <p> I'm a full stack developer from Oklahoma.<br/>
-    - 🔭 I’m currently working on a tracking app for a non-profit.
-    - 🌱 I’m currently learning Computer Science in Python
-    - 👯 I’m looking to collaborate on ...
-    - 🤔 I’m looking for help with ...
-    - 💬 Ask me about that one time I got lost in Italy.
-    - 😄 Pronouns: she/her <br/>
-    - ⚡ Fun facts: I love puzzles, I am decent at chess, and I've lived in 3 countries!
+    🔭 I’m currently working on a tracking app for a non-profit.
+    🌱 I’m currently learning Computer Science in Python
+    👯 I’m looking to collaborate on ...
+    🤔 I’m looking for help with ...
+    💬 Ask me about that one time I got lost in Italy.
+    😄 Pronouns: she/her <br/>
+    ⚡ Fun facts: I love puzzles, I am decent at chess, and I've lived in 3 countries!
   </p>
   <h4>Let's connect!</h4>
   <a href='_blank'>
