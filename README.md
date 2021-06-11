@@ -3,7 +3,7 @@
     <p> I'm a full stack developer from Oklahoma.<br/>
     🔭 I’m currently working on a tracking app for a non-profit.
     🌱 I’m currently learning Computer Science in Python
-    👯 I’m looking to collaborate on ...
+<!--     👯 I’m looking to collaborate on ... -->
     🤔 I’m looking for help with ...
     💬 Ask me about that one time I got lost in Italy.
     😄 Pronouns: she/her <br/>
