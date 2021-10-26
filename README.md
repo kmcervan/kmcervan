@@ -1,5 +1,5 @@
 <div align="center"> 
-  <h2> Hi there! I'm Karla Cervantes :v: </h2>
+  <h2> Hey there! I'm Karla Cervantes :v: </h2>
     <p> I'm a full stack developer from Oklahoma.<br/>
     🔭 I’m currently working on building a react project that uses an API.
     🌱 I’m currently learning Computer Science in Python
