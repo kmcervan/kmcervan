@@ -10,7 +10,7 @@
     ⚡ Fun facts: I love puzzles, I am decent at chess, and I've lived in 3 countries!
   </p>
   <h4>Let's connect!</h4>
-  <a href='https://cerkarla.herokuapp.com/' target='_blank'>
+  <a href='https://cerkarla.herokuapp.com/'>
     <img alt="Portfolio" width="36px" src="https://user-images.githubusercontent.com/72095687/121402465-8c4da500-c91f-11eb-9d80-2fe1b3873f66.png" />
   </a>
   <a href="https://mail.google.com/mail/u/0/?fs=1&to=cervantes.karla14@gmail.com&su=SUBJECT&body=BODY&tf=cm">
