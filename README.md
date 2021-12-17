@@ -2,7 +2,7 @@
   <h2> Hey there, I'm Karla Cervantes! :v: </h2>
     <p> I'm a full stack developer from Oklahoma.<br/>
     🔭 I’m currently working on building a react project that uses a public API to recreate an anime searching app.
-    🌱 I’m currently learning Computer Science in Python
+    🌱 I’m currently expanding my knowledge on React JS.
 <!--     👯 I’m looking to collaborate on ... -->
 <!--     🤔 I’m looking for help with ... -->
     💬 Ask me about that one time I got lost in Italy!
